@@ -43,7 +43,7 @@ const allApartments = [
     },
     {
         name: 'Epic Huda Palacio',
-        img: image5,
+        img: image6,
         location: 'Nasirabad H/S, Chattogram',
         bedRooms: '3 Bedrooms',
         bathRooms: '2 Bathrooms',
@@ -51,7 +51,7 @@ const allApartments = [
     },
     {
         name: 'Washington Avenue',
-        img: image6,
+        img: image5,
         location: 'Nasirabad H/S, Chattogram',
         bedRooms: '3 Bedrooms',
         bathRooms: '2 Bathrooms',

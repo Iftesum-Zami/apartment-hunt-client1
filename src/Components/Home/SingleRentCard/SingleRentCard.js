@@ -14,10 +14,10 @@ const SingleRentCard = ({apartment}) => {
                         <img src={locationImg} style={{width: '15px'}} alt=""/><span> {apartment.location}</span>
                         <div className="d-flex justify-content-between pt-3">
                             <div>
-                                <img src={bed} style={{width: '15px'}} alt=""/><span> {apartment.bedRooms}</span>
+                                <img src={bed} style={{width: '20px'}} alt=""/><span> {apartment.bedRooms}</span>
                             </div>
                             <div>
-                                <img src={bath} style={{width: '15px'}} alt=""/><span> {apartment.bathRooms}</span>
+                                <img src={bath} style={{width: '20px'}} alt=""/><span> {apartment.bathRooms}</span>
                             </div>
                         </div>
                     </div>
